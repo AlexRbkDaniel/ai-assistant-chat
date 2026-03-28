@@ -1,0 +1,16 @@
+# LangChain core
+langchain>=1.2.13
+langchain-core>=1.2.22
+langchain-openai>=1.1.12
+
+# Web framework
+flask
+
+# OpenAI
+openai>=2.30.0
+
+# Data validation
+pydantic>=2.12.5
+
+# Environment variables
+python-dotenv>=1.2.2
